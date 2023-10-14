@@ -4,7 +4,7 @@
 $servername = "localhost"; // Replace with your MySQL server name or IP address
 $username = "root"; // Replace with your MySQL username
 $password = ""; // Replace with your MySQL password
-$dbname = "samplefraskdb"; // Replace with the name of your database
+$dbname = "samplechiedb"; // Replace with the name of your database
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
